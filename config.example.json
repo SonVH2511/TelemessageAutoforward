@@ -1,0 +1,10 @@
+{
+    "api_id": 12345678,
+    "api_hash": "your_api_hash_here",
+    "session_name": "my_session",
+    "recv_group": "recv_autoforwarding",
+    "max_message_map_entries": 150000,
+    "blacklist": [],
+    "blacklist_folders": [],
+    "folder_refresh_interval": 3600
+}
